@@ -10,7 +10,7 @@ fruits = [{
     {
         'type': 'Kiwi',
         'origin': 'Easteren Europe',
-        'colour':'Brown'
+        'colour': 'Brown'
     },
     {
         'type': 'Pear',
